@@ -3,9 +3,9 @@ frontend-nanodegree-arcade-game
 
 How to run the game:
 
-Step 1: Defined Enemy() function and declared enemy instances allEnemies[] array.
-Step 2: Used prototype function of the Enemy update, so that the allEnemies[] instances are updated.
-Step 3: To generate arbitrary numbers, with the reference of stackoverflow.com webpage, got the idea of "getRandomArbitrary()".
+1. Defined Enemy() function and declared enemy instances allEnemies[] array.
+2. Used prototype function of the Enemy update, so that the allEnemies[] instances are updated.
+3. To generate arbitrary numbers, with the reference of stackoverflow.com webpage, got the idea of "getRandomArbitrary()".
 
 Step 4: Defined Player() function and declared player() at (200,300) co-ordinates.
 Step 5: Used prototype function of the Player update, so that the player() instances are updated.
